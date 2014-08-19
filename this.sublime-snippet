@@ -2,5 +2,5 @@
   <content><![CDATA[\$this->${1:variable}]]></content>
   <tabTrigger>th</tabTrigger>
   <scope>source.php</scope>
-  <description>PHP - $this or other object use</description>
+  <description>PHP - $this object</description>
 </snippet>

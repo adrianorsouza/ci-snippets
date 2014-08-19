@@ -42,6 +42,7 @@ If you find error or whatever just fork it and send me a pull request.
 * output_json
 * set_json
 * th
+* obj
 
 #### Helper
 

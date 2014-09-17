@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+get_cookie('${1:key}');
+]]></content>
+	<tabTrigger>cookie</tabTrigger>
+	<scope>source.php</scope>
+	<description>CI - Cookie Helper - get_cookie</description>
+</snippet>

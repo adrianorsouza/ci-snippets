@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+delete_cookie('${1:name}');
+]]></content>
+	<tabTrigger>cookie</tabTrigger>
+	<scope>source.php</scope>
+	<description>CI - Cookie Helper - delete_cookie</description>
+</snippet>

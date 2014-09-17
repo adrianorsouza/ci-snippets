@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->security->get_csrf_token_name()
+]]></content>
+	<tabTrigger>sec</tabTrigger>
+	<scope>source.php</scope>
+	<description>CI - CSRF token name</description>
+</snippet>

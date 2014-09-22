@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->input->get_request_header();
+\$this->input->get_request_header('${1:Key}');
 ]]></content>
 	<tabTrigger>get_request_header</tabTrigger>
 	<scope>source.php</scope>
